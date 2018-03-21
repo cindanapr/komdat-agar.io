@@ -122,6 +122,7 @@
     ```
     $ sudo dpkg --configure -a
     ```
+***
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
@@ -140,6 +141,7 @@ Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar den
 
 ![7](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/7.png)
 
+***
 
 ## Pembahasan
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
@@ -154,6 +156,8 @@ Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar den
 - *User Interface game* terlalu *simple*.
 - Permainan hanya bisa dimainkan secara *local*.
 - Proses *game* masih ada sedikit *lag* (untuk *browser* tertentu, disarankan menggunakan *Mozilla Firefox*).
+
+***
 
 ## Referensi
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
