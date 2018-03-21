@@ -38,7 +38,9 @@
 
     *Port-forwarding* berfungsi agar server dapat diakses dari luar melalui alamat host (IP host).
     - Klik *setting* pada ``Ubuntu Server``, klik *Network and Advance*.
-          [gambar]
+    
+      ![3](https://github.com/mhdsuryono/komdat-agar.io/blob/master/3.png)
+      
     - Tambah *port* dan atur seperti tabel dibawah ini:
     
       | Name | Protocol | Host IP | Host Port | Guest IP | Guest Port |
