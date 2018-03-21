@@ -7,7 +7,7 @@
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
 
-**Agar.io** merupakan permainan aksi *online multiplayer* yang diciptakan oleh **Matheus Valadares**. Pemain mengendalikan sebuah sel di peta menggunakan *mouse* untuk menunjuk kearah yang diinginkan dan pemain bisa membagi diri dengan menggunakan spasi. Tujuan dari permainan ini adalah untuk mendapatkan massa sebanyak-banyaknya dengan menelan sel yang lebih kecil tanpa ditelan oleh sel yang lebih besar. Nama permainan ini berasal dari bahan agar-agar, digunakan untuk kultur bakteri. Permaian **Agar.io** menjadi salah satu permainan yang paling populer di *web* dan *mobile games* pada tahun pertama dirilis. Permainan ini diunduh versi *steam* pada 3 Mei 2015 dan versi *mobile* untuk *iOS* dan *Android* dirilis pada 8 April 2015 oleh *Miniclip*.
+  **Agar.io** merupakan permainan aksi *online multiplayer* yang diciptakan oleh **Matheus Valadares**. Pemain mengendalikan sebuah sel di peta menggunakan *mouse* untuk menunjuk kearah yang diinginkan dan pemain bisa membagi diri dengan menggunakan spasi. Tujuan dari permainan ini adalah untuk mendapatkan massa sebanyak-banyaknya dengan menelan sel yang lebih kecil tanpa ditelan oleh sel yang lebih besar. Nama permainan ini berasal dari bahan agar-agar, digunakan untuk kultur bakteri. Permaian **Agar.io** menjadi salah satu permainan yang paling populer di *web* dan *mobile games* pada tahun pertama dirilis. Permainan ini diunduh versi *steam* pada 3 Mei 2015 dan versi *mobile* untuk *iOS* dan *Android* dirilis pada 8 April 2015 oleh *Miniclip*.
 
 ***
 
