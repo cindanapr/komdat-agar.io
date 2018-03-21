@@ -20,7 +20,7 @@
 - Socket.io
 - Express.io
   
-#### Proses Instalasi
+#### Proses Instalasi:
 
 1. **Membuat VM Ubuntu Server**
 
