@@ -59,7 +59,7 @@
     $ sudo apt update
     $ sudo apt install ssh
     ```
-4. **Akses lewat terminal ubuntu**
+4. **Akses melalui Terminal Ubuntu**
 
     Pertama, matikan VM terlebih dahulu, lalu nyalakan server dengan mode **headless**. Buka terminal ubuntu dan koneksikan dengan virtual server melalui ssh.
     ```
