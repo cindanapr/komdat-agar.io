@@ -51,21 +51,28 @@
     Dengan demikian, ketika mengakses ``localhost:8888`` di *host*, maka akan diteruskan ke ``localhost:80`` di *guest (VM)*.
     ![9](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/8.png)
 
-3. **Update Paket Sistem**
+3. **Update Paket Sistem dan Install ssh**
 
-    *Update* seluruh paket dalam sistem agar *up-to-date*.
+    *Update* seluruh paket dalam sistem agar *up-to-date*. Serta, install ssh agar dapat diakses melalui terminal ubuntu.
     ```
     $ sudo apt update
+    $ sudo apt install ssh
+    ```
+4. **Akses lewat terminal ubuntu**
+
+    Pertama, matikan VM terlebih dahulu, lalu nyalakan server dengan mode **headless**. Buka terminal ubuntu dan koneksikan dengan virtual server melalui ssh.
+    ```
+    $ ssh student@localhost -p 2222
     ```
 
-4. **Install Node.js dan NPM**
+5. **Install Node.js dan NPM**
 
     ```
     $ sudo apt-get install nodejs
     $ sudo apt-get install npm
     ```
 
-5. **Install Socket.io dan Express.io**
+6. **Install Socket.io dan Express.io**
 
     Pada saat proses instalasi dibutuhkan ``--save`` agar pada sesi-sesi selanjutnya tidak perlu melakukan instalasi ulang.
     ```
@@ -73,7 +80,7 @@
     $ npm install express.io --save
     ```
 
-6. **Download Agar.io**
+7. **Download Agar.io**
 
     Setelah di *download*, kita masuk kedalam direktori *agar.io-clone*.
     ```
@@ -81,28 +88,28 @@
     $ cd agar.io-clone
     ```
 
-7. **Install Agar.io**
+8. **Install Agar.io**
 
     Pastikan bahwa posisi saat ini berada didalam direktori ``agar.io-clone``.
     ```
     $ npm install
     ```
     
-8. **Menguhubungkan folder Node dengan Nodejs**
+9. **Menguhubungkan folder Node dengan Nodejs**
 
     Pada Agar.io yang di*download*, saat di jalankan akan *request* kedalam  folder ``node``. Untuk saat ini, *node* sudah digantikan oleh ``nodejs`` dan penamaan foldernya pun menjadi ``nodejs``, jadi perlu dilakukan *link* antar folder.
     ```
     $ sudo ln -s /usr/bin/nodejs /usr/bin/node
     ```
 
-9. **Menjalankan Agar.io**
+10. **Menjalankan Agar.io**
 
     Posisi masih berada didalam direktori *agar.io-clone*.
     ```
     $ npm start
     ```
 
-10. **Kendala Instalasi**
+11. **Kendala Instalasi**
 
     Dimungkinkan terjadi kendala saat instalasi, seperti adanya proses yang ter-*lock* sehingga tidak bisa meng-*install* komponen yang dibutuhkan. Cara melepas *lock*-nya adalah:
     ```
