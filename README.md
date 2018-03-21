@@ -117,10 +117,10 @@
     $ sudo rm /var/cache/apt/archives/lock
     $ sudo rm /var/lib/dpkg/lock
     ```
-  Jika terjadi kendala yang diakibatkan dari errornya dpkg, kita harus melakukan konfigurasi dengan perintah:
-  ```
-  $ sudo dpkg --configure -a
-  ```
+    Jika terjadi kendala yang diakibatkan dari errornya dpkg, kita harus melakukan konfigurasi dengan perintah:
+    ```
+    $ sudo dpkg --configure -a
+    ```
 
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
