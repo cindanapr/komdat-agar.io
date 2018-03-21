@@ -115,6 +115,8 @@
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
 
+![6](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/6.png)
+
 Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar dengan mengkonsumsi partikel makanan (pentagons kecil) dan pemain lain. Pemain lain bergerak dengan berbagai ukuran. Anda hanya bisa mengonsumsi pemain lain yang lebih kecil dari Anda, dan pemain yang lebih besar akan mengkonsumsimu. Hati-hati dan bertahan selama mungkin!
 
 **Game Basics**
@@ -125,6 +127,8 @@ Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar den
 - Permainan ini berakhir jika sel bakteri pengguna dimakan oleh sel bakteri berukuran besar dari pemain lawan.
 - ``Objective``: Cobalah untuk menumbuhkan bakteri sebesar mungkin dengan memakan pemain yang lain.
 
+![7](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/7.png)
+
 
 ## Pembahasan
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
@@ -133,11 +137,13 @@ Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar den
 - Sederhana ketika memulai permainan. Pengguna cukup mengisi nama pengguna pada kolom *Nick* dan menekan tombol *Play*.
 - Memiliki desain *interface* yang responsif, sehingga dapat dijalankan di perangkat apapun.
 - Mudah dimengerti dan dimainkan oleh pengguna awam.
+- Setting yang mudah dimengerti.
 
 **Kekurangan:**
 - *User Interface game* terlalu *simple*.
 - Permainan hanya bisa dimainkan secara *local*.
 - Proses *game* masih ada sedikit *lag*.
+- Game hanya bisa diakses melalui localhost, tidak bisa melalui jaringan kabel(IP Address).
 
 
 ## Referensi
