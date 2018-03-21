@@ -30,7 +30,7 @@
     
       ![1](https://github.com/mhdsuryono/komdat-agar.io/blob/master/1.png)
       
-    - *Memory Size (RAM)* cukup 8 MB, lalu klik *Use an Existing VH* dan pilih file *ubuntu-server.vdi* *(Ubuntu Server dapat didownload [disini](https://drive.google.com/a/apps.ipb.ac.id/uc?id=1-Dr_iEdk3N3YRFnTEtWdJQcV49Sp13IQ&export=download))*, klik *Create*.
+    - *Memory Size (RAM)* cukup 8 MB, lalu klik *Use an Existing VH* dan pilih file *ubuntu-server.vdi*. *(Ubuntu Server dapat didownload [disini](https://drive.google.com/a/apps.ipb.ac.id/uc?id=1-Dr_iEdk3N3YRFnTEtWdJQcV49Sp13IQ&export=download))*, klik *Create*.
     
       ![2](https://github.com/mhdsuryono/komdat-agar.io/blob/master/2.png)
       
