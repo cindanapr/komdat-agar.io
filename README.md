@@ -127,7 +127,7 @@
 ## Cara Pemakaian
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
 
-![6](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/6.png)
+<h1 align="center"><img src="https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/6.png"></h1>
 
 Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar dengan mengkonsumsi partikel makanan (pentagons kecil) dan pemain lain. Pemain lain bergerak dengan berbagai ukuran. Anda hanya bisa mengonsumsi pemain lain yang lebih kecil dari Anda, dan pemain yang lebih besar akan mengkonsumsimu. Hati-hati dan bertahan selama mungkin!
 
