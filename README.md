@@ -2,7 +2,7 @@
 <h1 align="center"><img src="http://images6.fanpop.com/image/photos/38500000/Agar-io-agario-38588889-280-280.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-<h2 align = "center">:---:|:---:|:---:|:---:|:---:</h2>
+:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
