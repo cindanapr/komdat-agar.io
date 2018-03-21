@@ -26,7 +26,7 @@
 
     Dalam instalasi, digunakan *Ubuntu Server 16.04*. Kemudian, buat *Virtual Machine* baru pada *VirtualBox* dengan tipe "Ubuntu 64-bit".
     - Jalankan *VirtualBox* lalu klik *New*. Berikan nama bebas, tapi pastikan *version: Ubuntu (64-bit)*.
-            [gambar]
+      ![1](https://github.com/mhdsuryono/komdat-agar.io/blob/master/1.png)
     - *Memory Size* cukup 8 MB, lalu klik *Use an Existing VH* dan pilih file *ubuntu-server.vdi* *(Ubuntu Server dapat didownload [disini](https://drive.google.com/a/apps.ipb.ac.id/uc?id=1-Dr_iEdk3N3YRFnTEtWdJQcV49Sp13IQ&export=download))*, klik *Create*.
             [gambar]
 
