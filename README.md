@@ -152,9 +152,7 @@ Tujuan dalam permainan adalah untuk mendapatkan massa dan tumbuh lebih besar den
 **Kekurangan:**
 - *User Interface game* terlalu *simple*.
 - Permainan hanya bisa dimainkan secara *local*.
-- Proses *game* masih ada sedikit *lag*.
-- Game hanya bisa diakses melalui localhost, tidak bisa melalui jaringan kabel(IP Address).
-
+- Proses *game* masih ada sedikit *lag* (ketika dijalankan di *Windows*).
 
 ## Referensi
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
