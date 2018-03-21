@@ -1,5 +1,5 @@
 # Aplikasi Web "Agar.io"
-![agario](https://github.com/mhdsuryono/komdat-agar.io/blob/master/agario.png")
+<h1 align="center"><img src="https://github.com/mhdsuryono/komdat-agar.io/blob/master/agario.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:
