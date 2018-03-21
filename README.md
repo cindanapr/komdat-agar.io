@@ -45,11 +45,11 @@
     
       | Name | Protocol | Host IP | Host Port | Guest IP | Guest Port |
       |:----:|:--------:|:-------:|:---------:|:--------:|:----------:|
-      | http | TCP      |         | 8888      |          | 80         |
+      | http | TCP      |         | 8888      |          | 3000         |
       | ssh  | TCP      |         | 2222      |          | 20         |
-      | nodejs | TCP    |         | 3333      |          | 3000       |
 
     Dengan demikian, ketika mengakses ``localhost:8888`` di *host*, maka akan diteruskan ke ``localhost:80`` di *guest (VM)*.
+    ![9](https://raw.githubusercontent.com/mhdsuryono/komdat-agar.io/master/8.png)
 
 3. **Update Paket Sistem**
 
