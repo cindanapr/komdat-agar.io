@@ -1,8 +1,8 @@
 # Aplikasi Web "Agar.io"
 <h1 align="center"><img src="http://images6.fanpop.com/image/photos/38500000/Agar-io-agario-38588889-280-280.png"></h1>
 
-<align = "center"[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:>
+<align = "center"[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)>
+:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 [`^ kembali ke atas ^`](#aplikasi-web-agario)
